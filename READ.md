@@ -1,6 +1,15 @@
 node_api_concordia
 example node_api
 
+TO START PROJECT RUN:
+```
+yarn install
+```
+thenn:
+```
+yarn start
+```
+
 Our API has the following ENDPOINTS:
 
 HTTP METHODS in plain English:
